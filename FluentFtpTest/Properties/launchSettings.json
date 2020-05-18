@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FluentFtpTest": {
+      "commandName": "Project",
+      "commandLineArgs": "localhost anonymous anonymous H:\\Tests\\ftpdownload"
+    }
+  }
+}
